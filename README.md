@@ -4,8 +4,9 @@ This plugin automatically repairs GPKG data source paths within a QGIS GPKG proj
 It consists of only a few lines of Python code and uses the QgsPathResolver for data repair. 
 
 "Change GPKG Path" has been an indispensable companion for me for a long time. Above all, it shows that even a few lines of code can achieve a lot.
+It was originally inspred by this QGIS issue: https://github.com/qgis/QGIS/issues/37440
 
-My expectation is that it will soon be replaced by an internal function.
+I assume that it will be replaced by an internal function at some point.
 
 
 **Author:** Christoph Candido, Vienna
