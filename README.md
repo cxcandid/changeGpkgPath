@@ -1,4 +1,6 @@
-# ![image](https://github.com/cxcandid/changeGpkgPath/blob/main/gpkg_repair.jpg) Change GPKG Path
+![image](https://github.com/cxcandid/changeGpkgPath/blob/main/gpkg_repair.jpg) 
+
+# Change GPKG Path
 
 This plugin automatically repairs GPKG data source paths within a QGIS GPKG project file if they have been lost due to file renaming.
 It consists of only a few lines of Python code and uses the QgsPathResolver for data repair. 
