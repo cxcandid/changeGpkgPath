@@ -1,4 +1,4 @@
-# ![image](https://github.com/cxcandid/changeGpkgPath/blob/main/gpkg_repair.jpg) 
+![image](https://github.com/cxcandid/changeGpkgPath/blob/main/gpkg_repair.jpg) 
 
 # Change GPKG Path
 
