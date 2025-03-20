@@ -6,7 +6,7 @@
 name=Change GPKG Path
 qgisMinimumVersion=3.0
 description=QGIS Plugin to change all GPKG datasources inside a GPKG project
-version=1.0.0
+version=1.0.1
 author=Christoph Candido
 email=christoph.candido@gmx.at
 
@@ -21,7 +21,8 @@ repository=https://github.com/cxcandid/changeGpkgPath
 
 hasProcessingProvider=no
 # Uncomment the following line and add your changelog:
-changelog=1.0.0 : initial version
+changelog=1.0.1 : minor changes to make the background task more visible to the user
+1.0.0 : initial version
 
 # Tags are comma separated with spaces allowed
 tags=python
